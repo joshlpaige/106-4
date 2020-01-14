@@ -1,0 +1,30 @@
+
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(173,173,173);
+}
+
+.container{
+    border: 1px solid rgb(23, 27, 31);
+    padding: 0;
+    background-color: rgb(147, 147, 236, 0.9);
+}
+
+.form{
+    padding: 10px 20px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+.col-4{
+    text-align: right;
+}
+
+.hidden{
+    display: none;
+}
